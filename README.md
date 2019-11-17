@@ -7,4 +7,4 @@ A class notes project of MIT Linear Algebra by Prof. Gilbert Strang.
 ## 目录
 
 1. [第一讲：基础概念](lecture1.basic_concepts.ipynb)
-2. [第二讲](lecture2.ipynb)
+2. [第二讲：矩阵消元及其与矩阵乘法的关系](lecture2.matrix_elimination_multiplication.ipynb)
